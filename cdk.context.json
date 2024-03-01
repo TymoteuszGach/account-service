@@ -1,0 +1,8 @@
+{
+  "projectName": "account-service",
+  "environments": {
+    "default": {
+      "logLevel": "DEBUG"
+    }
+  }
+}
